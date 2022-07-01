@@ -2,14 +2,14 @@
 
 ## New ranking 
 
-| Existing Rank | New Rank |
-|--|--|
-| Pilot Lead | Senior Commander |
-| Airline Pilot | Senior Captain |
-| Freight Pilot | Captain |
-| Student Pilot | Junior Flight Officer|
-|Hobby Pilot| N/A|
-
+| Existing Rank | New Rank              |
+|---------------|-----------------------|
+| Pilot Lead    | Senior Commander      |
+| Airline Pilot | Senior Captain        |
+| Freight Pilot | Captain               |
+| NEW           | Senior Flight Officer |
+| Student Pilot | Junior Flight Officer |
+| Hobby Pilot   | Trainee               |
 
 ## Issues & Proposals
     For each Issue I will attempt to provide a solution with RP as the end goal.
@@ -34,8 +34,8 @@
     -   Proposal
         -   Introduce a qualification based license system(this could be done all through RP and spreadsheets), where there would be multiple different qualifications needed to be elegible for the flight exam.
         -   All citizens with licenses would need to be retrained but this could be arranged through RP.
-        -   Aby pilot would be able to charge for flight lessons, where they would actually teach and allow the applicants to practice while increasing their flight skill faster.
-        -   Only Senior pilots or above would be able to put
+        -   Any pilot would be able to charge for flight lessons where they would actually teach and allow the applicants to practice while increasing their flight skill faster.
+        -   Only Senior pilots or above would be able to issue licenses and perform flight exams.
         -   Allow people to call for an AirTow as well as a normal Tow, Cargobobs can be used by the lowest rank of pilot so any pilot can profit off it.
         -   [Add magnet functionality to the Skylift helicopter](https://pt.gta5-mods.com/scripts/working-skylift-magnet-gtalua) so higher rank pilots can lift heavier cargo, in turn being paid more.
         -   Add something like [Taximeter](https://github.com/michaelhodgejr/esx_taximeter) so it is easier for pilots to estimate prices based on type of cargo and weight.
@@ -46,3 +46,49 @@
     - Proposal:
       - A regular interval of time that would render a license expired status, making so the license holders would need renew their licenses. This would require the license holder to redo their practical test. 
       - Having the license expiration date on the license card just like the hunting licenses would be ideal.
+
+## Metabase References
+>With some inconsistent work done by the previous pilots most of our currently logged licenses don't contain phone numbers for renewals, there is no way to actually pull that information consistently, information in which should've been logged from the start.
+-   A metabase display of all the people that have been licensed, with the following information if possible:
+
+    | Name | Phone Number | License Issued at | Issued by|
+    |-- |-- |-- |-- |
+
+## Transponders
+>"In air navigation or radio frequency identification, a flight transponder is an automated transceiver in an aircraft that emits a coded identifying signal in response to an interrogating received signal. In a communications satellite, a satellite transponder receives signals over a range of uplink frequencies, usually from a satellite ground station; the transponder amplifies them, and re-transmits them on a different set of downlink frequencies to receivers on Earth, often without changing the content of the received signal or signals." - [Wikepedia Article on Transponders](https://en.wikipedia.org/wiki/Transponder)
+- Adding a transponder system to aircraft that would reveal them in the sky for other aircraft. Basically add a player marker when someone is inside an aircraft, but only for others inside aircrafts as well.
+- Add a way to disable the transponder (/transponderoff) so they can opperate hidden, but doing so would alert the ATC/Police/Pilots, as it is a federal crime to fly with your transponder off.
+
+## ATC
+>ATC should be recognized as a real entity over San Andreas. But there shouldn't be ATC Roleplay, as it is basically like talking to a wall, as of now we don't have enough of a population in the server to justify dedicated ATC personnel nor enough pilots in the sky.
+-   Changing city laws to accomodate this would be crucial.
+
+## Fixed Wing Aircraft tweaks
+> There is no real reason to purchase one of the many fixed wing aircraft on the catalogue, they function similarly to rotary aircraft but without the vertical take-off/landing.
+-   Increasing their top speed and acceleration would make them more exciting for buyers and the ones flying them. This would, of course, 
+
+## Clock in Stations
+>Having a clock in station on every airport would be ideal, flying from paleto to LSIA is rather time consuming.
+-   Having clock in stations on Sandy Shores.
+-   No need to add one for Grapeseed International Shack, it would make clocking in and out too trivial.
+
+## Elitism, as it should
+-   Gating
+    -   Pilots should be gated just as much as judges and cops, there is an immense ammount of power in the hands of a pilot, not just destructive but crime wise, the people willing to become pilots need to be heavily scrutinized before allowed to operate aircraft.
+   
+
+## Money stuff
+-   Commissions
+    -   Aircraft prices should be lowered by 10% and a 10% commission should be in place for the pilot selling the aircraft. The buyer doesn't feel a difference, the seller will have a nice bag of change, compared to PDM, the Aicraft market receives insanely less traffic, so a commission that high would make sense to help pilots stay motivated.
+-   Licensing fees
+    - Instructor pilots would work together with the Senior Captains in the licensing process, as instructors would prepare the students for their practical exam 
+     -   The pricing for licenses can't be comprehensive, there should be monthly discussions on price adjustments for the licenses and renewals, this should be based on a current state of economy instead of being a fixed value.
+
+## Existing Aircraft Owners
+>They won't be happy with status quo changes. The most important thing is that they understand how insanely difficult it actually is to fly an aircraft and that they will not be able to just magically buy one and go [flying like Tom Cruise](https://youtu.be/WLKpgzXHKLA?t=52) around buildings and mountains.
+
+>In order for them to properly use the aircraft, they'd need to go through the training. They may get frustrated but it is sadly a necessity, they've been granted way too big of a power for nothing more than a sloppy driver's exam in the sky.
+
+
+- Discounted licensing for aircraft owners.
+- Fast tracked certifications and exams.
