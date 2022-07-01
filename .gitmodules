@@ -1,3 +1,6 @@
 [submodule "Turbulence"]
 	path = Turbulence
 	url = https://github.com/Vumono/Turbulence
+[submodule "esx_taximeter"]
+	path = esx_taximeter
+	url = https://github.com/michaelhodgejr/esx_taximeter
