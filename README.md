@@ -65,7 +65,7 @@
 
 ## Fixed Wing Aircraft tweaks
 > There is no real reason to purchase one of the many fixed wing aircraft on the catalogue, they function similarly to rotary aircraft but without the vertical take-off/landing.
--   Increasing their top speed and acceleration would make them more exciting for buyers and the ones flying them. This would, of course, 
+-   Increasing their top speed and acceleration would make them more exciting for buyers and the ones flying them. This would, of course, increase the likelyhood of someone buying it.
 
 ## Clock in Stations
 >Having a clock in station on every airport would be ideal, flying from paleto to LSIA is rather time consuming.
