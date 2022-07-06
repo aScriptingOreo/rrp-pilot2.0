@@ -57,6 +57,7 @@
 ## Transponders
 >"In air navigation or radio frequency identification, a flight transponder is an automated transceiver in an aircraft that emits a coded identifying signal in response to an interrogating received signal. In a communications satellite, a satellite transponder receives signals over a range of uplink frequencies, usually from a satellite ground station; the transponder amplifies them, and re-transmits them on a different set of downlink frequencies to receivers on Earth, often without changing the content of the received signal or signals." - [Wikepedia Article on Transponders](https://en.wikipedia.org/wiki/Transponder)
 - Adding a transponder system to aircraft that would reveal them in the sky for other aircraft. Basically add a player marker when someone is inside an aircraft, but only for others inside aircrafts as well.
+- Only licensed pilots would be able to disable the transponder, as they have been taught how to do so.
 - Add a way to disable the transponder (/transponderoff) so they can opperate hidden, but doing so would alert the ATC/Police/Pilots, as it is a federal crime to fly with your transponder off.
 
 ## ATC
@@ -71,6 +72,11 @@
 >Having a clock in station on every airport would be ideal, flying from paleto to LSIA is rather time consuming.
 -   Having clock in stations on Sandy Shores.
 -   No need to add one for Grapeseed International Shack, it would make clocking in and out too trivial.
+
+## Hobby Licenses - Powergaming 2: Electric Bogaloo
+> These should be at least 500k per, 150k to the issuer and 350k to the government, this is in no way intended to make pilots richer, it is a literal discouragement to players getting them. Having that much power to just spawn a helicopter or a plane is quite unbalanced for crime holders.
+-   With transponders we would be able to control this better, but still.
+
 
 ## Elitism, as it should
 -   Gating
