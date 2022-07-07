@@ -82,6 +82,9 @@
 -   Gating
     -   Pilots should be gated just as much as judges and cops, there is an immense ammount of power in the hands of a pilot, not just destructive but crime wise, the people willing to become pilots need to be heavily scrutinized before allowed to operate aircraft.
    
+## Plane Smoke
+> Include the script for plane smoke toggling so airshows can be more entertaining.
+-   Included plane smoke script as a submodule of this repository.
 
 ## Money stuff
 -   Commissions
@@ -98,3 +101,18 @@
 
 - Discounted licensing for aircraft owners.
 - Fast tracked certifications and exams.
+
+
+
+# Non essential QOL suggestions
+
+## XNLRealPlanes
+> This would add TCAS, GPWS, Custom sound and interiors to most aircraft, automated landing sequences for fixed wing aircraft, separate airspaces based on aircraft types and many other Quality of Life features. [Here is the full feature list](https://github.com/VenomXNL/XNLRealPlanes#-main-features).
+- The script is in the repo as a submodule, but not at all a major point of this overhaul.
+- It has no ESX version and the creator doesn't seem to be interested in creating one. I reckon the feature list on the script will be used rather as basis for custom QOL changes and implementations.
+
+## Camera functionality
+> Add the camera functionality to aircraft that don't have it.
+-   The camera script does not seem to have been hooked to the Buzzard2 (non police version).
+-   Adding camera functionality to some planes may increase the likelyhood of people buying them.
+

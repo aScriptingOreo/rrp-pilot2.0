@@ -4,3 +4,9 @@
 [submodule "esx_taximeter"]
 	path = esx_taximeter
 	url = https://github.com/michaelhodgejr/esx_taximeter
+[submodule "planesmoke"]
+	path = planesmoke
+	url = https://github.com/logan-mcgee/planesmoke-v2
+[submodule "XNLRealPlanes"]
+	path = XNLRealPlanes
+	url = https://github.com/VenomXNL/XNLRealPlanes
