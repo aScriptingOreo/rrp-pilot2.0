@@ -81,7 +81,14 @@
 ## Elitism, as it should
 -   Gating
     -   Pilots should be gated just as much as judges and cops, there is an immense ammount of power in the hands of a pilot, not just destructive but crime wise, the people willing to become pilots need to be heavily scrutinized before allowed to operate aircraft.
-   
+
+## Crime and Pilots
+> Pilots should be allowed to use their aircraft in crime, either clocked in or out, but always ready to face the consequences tied to the use. 
+-   Having pilots be able to do crime would increase the appeal of the job for the player population.
+-   Criminal crews would have a reason to hire a pilot (that sounds cool in my head).
+-   HEAVY punishment if caught in the act, it's high risk high reward.
+-   Vehicles would need to be agreed upon with cops, cargobobs would only be used for high value jobs or extractions. I.e. Pacific or Green Card.
+
 ## Plane Smoke
 > Include the script for plane smoke toggling so airshows can be more entertaining.
 -   Included plane smoke script as a submodule of this repository.
