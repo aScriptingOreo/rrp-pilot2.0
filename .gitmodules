@@ -10,3 +10,6 @@
 [submodule "XNLRealPlanes"]
 	path = XNLRealPlanes
 	url = https://github.com/VenomXNL/XNLRealPlanes
+[submodule "AircraftRadar"]
+	path = AircraftRadar
+	url = https://gitlab.com/Jitnaught/AircraftRadar-GTA5
