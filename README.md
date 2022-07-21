@@ -71,7 +71,6 @@
 ## Clock in Stations
 >Having a clock in station on every airport would be ideal, flying from paleto to LSIA is rather time consuming.
 -   Having clock in stations on Sandy Shores.
--   No need to add one for Grapeseed International Shack, it would make clocking in and out too trivial.
 
 ## Hobby Licenses - Powergaming 2: Electric Bogaloo
 > These should be at least 500k per, 150k to the issuer and 350k to the government, this is in no way intended to make pilots richer, it is a literal discouragement to players getting them. Having that much power to just spawn a helicopter or a plane is quite unbalanced for crime holders.
@@ -123,3 +122,6 @@
 -   The camera script does not seem to have been hooked to the Buzzard2 (non police version).
 -   Adding camera functionality to some planes may increase the likelyhood of people buying them.
 
+## On Screen aircraft Radar
+> This would give a visual indicator + instruments on screen for pilots.
+-   Added the submodule for AircraftRadar on the repository, you can see the resource [here](https://pt.gta5-mods.com/scripts/aircraft-radar)
