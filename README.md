@@ -122,6 +122,6 @@
 -   The camera script does not seem to have been hooked to the Buzzard2 (non police version).
 -   Adding camera functionality to some planes may increase the likelyhood of people buying them.
 
-## On Screen aircraft Radar
-> This would give a visual indicator + instruments on screen for pilots.
--   Added the submodule for AircraftRadar on the repository, you can see the resource [here](https://pt.gta5-mods.com/scripts/aircraft-radar)
+## On Screen aircraft Radar and instruments
+> This would give a visual indicator in the map with their heading. More of a concept than an actual script.
+-   Added the submodule for Jet Hud on the repository, you can see the resource [here](https://www.gta5-mods.com/scripts/jet-hud).
