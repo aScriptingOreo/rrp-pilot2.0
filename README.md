@@ -2,14 +2,15 @@
 
 ## New ranking 
 
-| Existing Rank | New Rank              |
-|---------------|-----------------------|
-| Pilot Lead    | Senior Commander      |
-| Airline Pilot | Senior Captain        |
-| Freight Pilot | Captain               |
-| NEW           | Senior Flight Officer |
-| Student Pilot | Junior Flight Officer |
-| Hobby Pilot   | Trainee               |
+| Existing Rank | New Rank                |
+|---------------|-------------------------|
+| Pilot Lead    | Senior Commander        |
+| Airline Pilot | Senior Captain          |
+| Freight Pilot | Captain                 |
+| NEW           | Senior Flight Officer   |
+| Student Pilot | Junior Flight Officer   |
+| NEW           | Trainee (Starting Rank) | 
+| Hobby Pilot   | Hobby Pilot             |
 
 ## Issues & Proposals
     For each Issue I will attempt to provide a solution with RP as the end goal.
@@ -47,6 +48,18 @@
       - A regular interval of time that would render a license expired status, making so the license holders would need renew their licenses. This would require the license holder to redo their practical test. 
       - Having the license expiration date on the license card just like the hunting licenses would be ideal.
 
+## Better salaries and rank limits
+> Pilots seem to be vastly underpaid compared to other jobs in the city, an airline pilot shouldn't be making more than a Senior Doctor or a Law Firm Partner in NYC but a slight adjustment would be ideal for compensating players time on the clock.
+
+| Rank | Salary | Limit of members |
+| -- | -- | -- |
+| Senior Commander | $2750 | 1 |
+| Senior Captain | $2500 | 3 |
+| Captain | $1500 | 20% |
+| Senior Flight Officer | $1000 | 30% |
+| Junior Flight Officer | $350 | 30% |
+| Trainee | $250 | Infinite |
+
 ## Metabase References
 >With some inconsistent work done by the previous pilots most of our currently logged licenses don't contain phone numbers for renewals, there is no way to actually pull that information consistently, information in which should've been logged from the start.
 -   A metabase display of all the people that have been licensed, with the following information if possible:
@@ -63,6 +76,10 @@
 ## ATC
 >ATC should be recognized as a real entity over San Andreas. But there shouldn't be ATC Roleplay, as it is basically like talking to a wall, as of now we don't have enough of a population in the server to justify dedicated ATC personnel nor enough pilots in the sky.
 -   Changing city laws to accomodate this would be crucial.
+
+## Cargo Freight task
+> Allowing pilots to take planes/helicopters to run cargo from point A to B and give them random useful loot from these runs.
+- It takes away from roleplay but it should be something pilots can do during downtime where no one is looking for the usual RP related activities.
 
 ## Fixed Wing Aircraft tweaks
 > There is no real reason to purchase one of the many fixed wing aircraft on the catalogue, they function similarly to rotary aircraft but without the vertical take-off/landing.
