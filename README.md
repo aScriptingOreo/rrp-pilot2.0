@@ -16,7 +16,7 @@
     For each Issue I will attempt to provide a solution with RP as the end goal.
 
 - Flying without licenses
-    >   ``The acquisition of licenses are no required by the majority of the playerbase that wants to purchase or fly aircraft, anyone can buy an aircraft off the catalogue and/or steal any aircraft they can get their hands on. While doing any of those, the player still perform flawlessly without any acquired knowledge from it's character.``     
+    >   ``The acquisition of licenses is not required by the the playerbase that wants to purchase or fly aircraft, anyone can buy an aircraft off the catalogue and/or steal any aircraft they can get their hands on. While doing any of those, the player still perform flawlessly without any acquired knowledge from it's character.``     
     > [Here's how hard it is to hover a helicopter](https://youtu.be/eXR1olg_I0w?t=234) according to an aerospace engineer
 
     -   Proposal #1
@@ -50,6 +50,7 @@
 
 ## Better salaries and rank limits
 > Pilots seem to be vastly underpaid compared to other jobs in the city, an airline pilot shouldn't be making more than a Senior Doctor or a Law Firm Partner in NYC but a slight adjustment would be ideal for compensating players time on the clock.
+- Limiting members will diminish the economy impact of adjusting these salaries.
 
 | Rank | Salary | Limit of members |
 | -- | -- | -- |
@@ -60,12 +61,15 @@
 | Junior Flight Officer | $350 | 30% |
 | Trainee | $250 | Infinite |
 
+## Aircraft Vehicle Parts
+>The mechanic system encompasses aircraft as well, all car parts are applicable to helicopters and planes. With the current state of tyre decay and subsequently popping mid flight due to the constant top speed. Some of these parts/features would be better off aircraft.
+
 ## Metabase References
 >With some inconsistent work done by the previous pilots most of our currently logged licenses don't contain phone numbers for renewals, there is no way to actually pull that information consistently, information in which should've been logged from the start.
 -   A metabase display of all the people that have been licensed, with the following information if possible:
 
     | Name | Phone Number | License Issued at | Issued by|
-    |-- |-- |-- |-- |
+    | -- | -- | -- | -- |
 
 ## Transponders
 >"In air navigation or radio frequency identification, a flight transponder is an automated transceiver in an aircraft that emits a coded identifying signal in response to an interrogating received signal. In a communications satellite, a satellite transponder receives signals over a range of uplink frequencies, usually from a satellite ground station; the transponder amplifies them, and re-transmits them on a different set of downlink frequencies to receivers on Earth, often without changing the content of the received signal or signals." - [Wikepedia Article on Transponders](https://en.wikipedia.org/wiki/Transponder)
