@@ -64,6 +64,10 @@
 ## Aircraft Vehicle Parts
 >The mechanic system encompasses aircraft as well, all car parts are applicable to helicopters and planes. With the current state of tyre decay and subsequently popping mid flight due to the constant top speed. Some of these parts/features would be better off aircraft.
 
+## A Direct line of communication to the PD
+> Having a discord channel to notify PD that aircraft have been spawnned and issued to student pilots is a good QOL feature and not hard to implement. This would avoid confusion for their solo flights as they don't own licenses yet.
+- Create a discord channel that has both police officers and pilots.
+
 ## Metabase References
 >With some inconsistent work done by the previous pilots most of our currently logged licenses don't contain phone numbers for renewals, there is no way to actually pull that information consistently, information in which should've been logged from the start.
 -   A metabase display of all the people that have been licensed, with the following information if possible:
@@ -79,7 +83,6 @@
 
 ## ATC
 >ATC should be recognized as a real entity over San Andreas. But there shouldn't be ATC Roleplay, as it is basically like talking to a wall, as of now we don't have enough of a population in the server to justify dedicated ATC personnel nor enough pilots in the sky.
--   Changing city laws to accomodate this would be crucial.
 
 ## Cargo Freight task
 > Allowing pilots to take planes/helicopters to run cargo from point A to B and give them random useful loot from these runs.
@@ -91,11 +94,12 @@
 
 ## Clock in Stations
 >Having a clock in station on every airport would be ideal, flying from paleto to LSIA is rather time consuming.
--   Having clock in stations on Sandy Shores.
+-   Add a clock in station at Sandy Shores Aiport.
+-   Add a clock in station at Grapeseed Airport.
 
 ## Hobby Licenses - Powergaming 2: Electric Bogaloo
 > These should be at least 500k per, 150k to the issuer and 350k to the government, this is in no way intended to make pilots richer, it is a literal discouragement to players getting them. Having that much power to just spawn a helicopter or a plane is quite unbalanced for crime holders.
--   With transponders we would be able to control this better, but still.
+-   With transponders we would be able to control this better, but still... It renders pilots obsolete.
 
 
 ## Elitism, as it should
@@ -107,7 +111,7 @@
 -   Having pilots be able to do crime would increase the appeal of the job for the player population.
 -   Criminal crews would have a reason to hire a pilot (that sounds cool in my head).
 -   HEAVY punishment if caught in the act, it's high risk high reward.
--   Vehicles would need to be agreed upon with cops, cargobobs would only be used for high value jobs or extractions. I.e. Pacific or Green Card.
+-   Vehicles would need to be agreed upon with cops, cargobobs would only be used for high value jobs or extractions. I.e. Pacific or Oil Rig.
 
 ## Plane Smoke
 > Include the script for plane smoke toggling so airshows can be more entertaining.
